@@ -3,7 +3,7 @@
 Summary:	Nonlinear aurodynamic computations for Octave
 Name:       octave-%{pkgname}
 Version:	1.2.0
-Release:        5
+Release:        6
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
